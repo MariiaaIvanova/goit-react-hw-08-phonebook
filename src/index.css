@@ -1,15 +1,14 @@
-@import-normalize;
 
 body {
   font-family: 'Quicksand', sans-serif;
 
-  padding: 50px;
+  padding: 30px;
   margin: 0;
 
   display: flex;
   justify-content: center;
   align-items: center;
-
+  background-color: #eeedf5;
 
 }
 
